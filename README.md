@@ -17,3 +17,7 @@ Introduce the hardware used for footstep project and the code for sensor network
 ### Tag Node ###
 
 ### Base Station ###
+
+
+### GroundTruth Demo ###
+https://youtu.be/zTlssKUdEQ4
